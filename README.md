@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Erin 👋
 
-<!--
-**rinnyssance/rinnyssance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biology student | 💻 Bioinformatics + AI  
+🧬 Passionate about genomics, multi-omics, & molecular science  
+🚀 Currently: Building projects in RNA-seq, conservation genetics, and AI tools
 
-Here are some ideas to get you started:
+🧠 President of Genetics Society @ NSU  
+🌱 Founder of HUNNiE – Language + Data learning tools  
+📚 Courses: JAX | IBM | Johns Hopkins | Coursera  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Current Projects
+- Cancer genomics (JAX)
+- HUNNiE app for multilingual learning
+- Bioinformatics case studies
