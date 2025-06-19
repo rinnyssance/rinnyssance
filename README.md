@@ -1,6 +1,6 @@
 # Hi, I'm Rinny 🧚🏾‍♀️
 
-🎓 Biology student | 💻 Bioinformatics + AI  
+🎓 Systems Biology | Pharmacology | 💻 Bioinformatics + AI  
 🧬 Passionate about genomics, multi-omics, & molecular science  
 🚀 Currently: Building projects in RNA-seq, conservation genetics, and AI tools
 
