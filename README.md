@@ -1,4 +1,4 @@
-# Hi, I'm Erin 👋
+# Hi, I'm Rinny 🧚🏾‍♀️
 
 🎓 Biology student | 💻 Bioinformatics + AI  
 🧬 Passionate about genomics, multi-omics, & molecular science  
