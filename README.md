@@ -1,6 +1,6 @@
 # 👋 Welcome
 
-I'm a love computational biology, building, and researching, and developing projects at the intersection of bioinformatics, artificial intelligence, and education. I focus on transforming raw biological data into actionable insights through open-source workflows, interactive tools, and applied AI.
+I'm a lover of computational biology, systems biology, building, and researching, and developing projects at the intersection of bioinformatics, molecular biology, artificial intelligence, and education. I focus on transforming raw biological data into actionable insights through open-source workflows, interactive tools, and applied AI.
 
 ---
 
