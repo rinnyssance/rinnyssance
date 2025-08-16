@@ -1,11 +1,12 @@
 # 👋 Welcome
 
-I'm a lover of computational biology, systems biology, building, and researching, and developing projects at the intersection of bioinformatics, molecular biology, artificial intelligence, and education. I focus on transforming raw biological data into actionable insights through open-source workflows, interactive tools, and applied AI.
+I'm a lover of computational biology, systems biology, computational neuroscience, and synethetic biology. So I'm building, and researching, and developing projects at the intersection of bioinformatics, molecular biology, artificial intelligence, and education. I focus on transforming raw biological data into actionable insights through open-source workflows, interactive tools, and applied AI. You'll find other experimental junk here as well, as I love to challenge myself through different educational programs, competitions, and hackathons.
 
 ---
 
 ### 🧬 Focus Areas
-- Genomic and transcriptomic data analysis  
+- Genomic and transcriptomic data analysis
+- Computational neuroscience 
 - Multi-omics integration and variant interpretation  
 - AI-assisted pipelines and model prototyping  
 - Biological data visualization and reproducible research  
