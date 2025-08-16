@@ -20,6 +20,8 @@ I'm a lover of computational biology, systems biology, computational neuroscienc
 - Exploring RNA-seq pipelines, gene regulation, and resistance mechanisms  
 - Creating portfolio-ready research based on genomics, AI, and public health  
 - Synthesizing course-based work into research-grade projects
+- Cybersecurity and integrating these skills into HIPAA compliance
+- Hackathons and competitions to experiment with how my skills transfer
 
 ---
 
